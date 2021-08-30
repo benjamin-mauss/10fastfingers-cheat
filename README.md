@@ -32,4 +32,4 @@ OCR (Optical character recognition).
 - Then, run the program with the command `python3 type_test.py`.
 - If it request for an anti-cheat verification, run `python3 anti_cheat_bypass.py`(the first time will take longer).
 
-<video src="https://youtu.be/PKN8Vs0xBnw">
+[![Alt text](https://img.youtube.com/vi/PKN8Vs0xBnw/0.jpg)](https://www.youtube.com/watch?v=PKN8Vs0xBnw)
