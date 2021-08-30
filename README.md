@@ -1,8 +1,8 @@
 # 10fastfingers cheat
 
 Cheat the score of <a href="https://10fastfingers.com"> 10fastfingers!
-
-    <img src="https://10fastfingers.com/img/layout/logo%402x.png" alt="img_logo">
+<br>
+<img src="https://10fastfingers.com/img/layout/logo%402x.png" alt="img_logo">
 </a>
 
 # Disclamer
@@ -31,3 +31,5 @@ OCR (Optical character recognition).
 - Type `pip install -r requirements.txt`.
 - Then, run the program with the command `python3 type_test.py`.
 - If it request for an anti-cheat verification, run `python3 anti_cheat_bypass.py`(the first time will take longer).
+
+<video src="https://youtu.be/PKN8Vs0xBnw">
