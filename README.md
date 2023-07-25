@@ -1,4 +1,4 @@
-# 10fastfingers Cheat - OCR-Based Anti-Cheat Analysis and Study
+# 10fastfingers Anti-Cheat Analysis - OCR-Based Study
 
 ![img_logo](https://10fastfingers.com/img/layout/logo%402x.png)
 
